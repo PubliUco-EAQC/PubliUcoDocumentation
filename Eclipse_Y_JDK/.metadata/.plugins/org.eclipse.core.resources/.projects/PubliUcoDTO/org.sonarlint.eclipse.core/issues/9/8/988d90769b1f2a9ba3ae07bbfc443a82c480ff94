@@ -1,0 +1,9 @@
+
+£
+java:S4165."kRemove this useless assignment; "identificador" already holds the assigned value along all execution paths.(æÄ‹ıÿÿÿÿ8º˜Åúû0HÖRMAJORZ
+CODE_SMELL
+l
+java:S1172-"4Remove this unused method parameter "identificaodr".(õ±œàÿÿÿÿÿ8º˜Åúû0H×RMAJORZ
+CODE_SMELL
+`
+java:S1656."/Remove or correct this useless self-assignment.(æÄ‹ıÿÿÿÿ8º˜Åúû0HÙRMAJORZBUG

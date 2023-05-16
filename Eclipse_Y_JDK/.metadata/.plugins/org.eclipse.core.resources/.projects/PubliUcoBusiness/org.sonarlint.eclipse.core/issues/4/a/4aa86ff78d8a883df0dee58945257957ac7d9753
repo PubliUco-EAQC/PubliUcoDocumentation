@@ -1,0 +1,10 @@
+
+s
+java:S1854 ":Remove this useless assignment to local variable "result".(æ¤—åÿÿÿÿÿ8¡‡ˆ1HÇ„RMAJORZ
+CODE_SMELL
+d
+java:S1481 "+Remove this unused "result" local variable.(æ¤—åÿÿÿÿÿ8¡‡ˆ1HÌ„RMINORZ
+CODE_SMELL
+_
+java:S1168""+Return an empty collection instead of null.(¥¹ï8¡‡ˆ1HÈ„RMAJORZ
+CODE_SMELL

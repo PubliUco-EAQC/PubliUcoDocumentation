@@ -1,0 +1,6 @@
+1684267783230	Rename package 'co.edu.uco.publiuco.crosscutting.utils'
+1684267793157	Rename package 'co.edu.uco.publiuco.crosscutting.exceptions'
+1684268158928	Rename type 'PubliUcoException'
+1684268180809	Rename type 'PubliUcoBusinessException'
+1684268196529	Rename type 'PubliucoBusisnessException'
+1684268209076	Rename type 'PubliucoException'

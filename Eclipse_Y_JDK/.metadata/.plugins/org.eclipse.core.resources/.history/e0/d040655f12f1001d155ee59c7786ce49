@@ -1,0 +1,5 @@
+package co.edu.uco.publiuco.init.api.controller;
+
+public class EstadoTipoRelacionInstitucionController {
+
+}

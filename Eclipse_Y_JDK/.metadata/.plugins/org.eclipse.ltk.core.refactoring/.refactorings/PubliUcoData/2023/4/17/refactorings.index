@@ -1,0 +1,13 @@
+1682721570304	Delete element
+1682721924035	Delete element
+1682721968113	Rename type 'CalificacionDTO'
+1682721989055	Rename type 'CategoriaAdministradorCategoriaDTO'
+1682722475615	Rename type 'TipoRelacionInstitucionDTO'
+1682722548068	Rename type 'VersionDTO'
+1682722649304	Rename package 'co.edu.uco.publiuco.data.dao.sqlserver'
+1682723587075	Rename package 'co.edu.uco.publiuco.data.dao.factory.relacional.sqlserver'
+1682723605188	Rename package 'co.edu.uco.publiuco.data.dao.relacional.sqlserver'
+1682724534587	Copy compilation unit
+1682724552065	Rename type 'SqlServerDAOFactory'
+1682724664573	Rename type 'PostgresDAOFactory'
+1682724803761	Rename package 'co.edu.uco.publiuco.data.dao.factory.relational.postgres'

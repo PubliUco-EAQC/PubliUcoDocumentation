@@ -1,0 +1,18 @@
+
+W
+java:S1168"+Return an empty collection instead of null.(¥¹ïH®GRMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰§îÒûÿÿÿÿH¬GRMINORZ
+CODE_SMELL
+b
+java:S1135#"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH³GRINFOZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH²GRINFOZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH±GRINFOZ
+CODE_SMELL
+b
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿH­GRINFOZ
+CODE_SMELL

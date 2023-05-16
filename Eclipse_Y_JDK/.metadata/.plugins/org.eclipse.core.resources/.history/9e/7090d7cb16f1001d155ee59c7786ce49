@@ -1,0 +1,33 @@
+package co.edu.uco.publiuco.api.validator;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import co.edu.uco.publiuco.crosscutting.utils.UtilObject;
+
+public final class Result {
+	private boolean valid;
+	private List<String> messages;
+	
+	public Result(final boolean valid, final List<String> messages) {
+		setValid(valid);
+		setMessages(messages);
+	}
+	
+	public static Result createValid() {
+		return new Result(true, new ArrayList<>());
+	}
+	
+	public static Result createInValid(final List<String> messages) {
+		return new Result(false, messages);
+	}
+
+	public final void setValid(boolean valid) {
+		this.valid = UtilObject.getDefault(valid, false);
+	}
+
+	public final void setMessages(List<String> messages) {
+		this.messages = UtilObject.getDefault(messages, new ArrayList<>());
+	}
+	
+}

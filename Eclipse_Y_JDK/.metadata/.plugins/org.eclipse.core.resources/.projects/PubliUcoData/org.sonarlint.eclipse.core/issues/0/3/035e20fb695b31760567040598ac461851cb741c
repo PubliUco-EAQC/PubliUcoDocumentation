@@ -1,0 +1,18 @@
+
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰§îÒûÿÿÿÿH¼GRMINORZ
+CODE_SMELL
+i
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8ÿÈùäş0HÁGRINFOZ
+CODE_SMELL
+^
+java:S1168"+Return an empty collection instead of null.(¥¹ï8ÿÈùäş0HÂGRMAJORZ
+CODE_SMELL
+i
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8ÿÈùäş0HÅGRINFOZ
+CODE_SMELL
+i
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8ÿÈùäş0HÆGRINFOZ
+CODE_SMELL
+i
+java:S1135#"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8ÿÈùäş0HÇGRINFOZ
+CODE_SMELL

@@ -1,0 +1,20 @@
+1683208982884	Delete element
+1683216672710	Rename type 'CategoriaDTO'
+1683216884757	Rename type 'AdministradorCategoriaAssembler'
+1683217148174	Rename type 'ComentarioLectorDTO'
+1683217178385	Rename type 'ComentarioRevisorDTO'
+1683217221513	Rename compilation unit 'EscritorDTO.java'
+1683227859588	Copy compilation units
+1683227905042	Rename type 'EstadoSqlServerDAO'
+1683227914305	Rename type 'TipoRelacionInstitucionSqlServerDAO'
+1683230891256	Copy compilation units
+1683230917663	Rename type 'AdministradorCategoriaDAO'
+1683230996097	Rename type 'CalificacionDAO'
+1683231140353	Rename type 'CategoriaDAO'
+1683231194846	Rename type 'ComentarioLectorDAO'
+1683231260340	Rename type 'ComentarioRevisorDAO'
+1683303517350	Rename type 'HistorialAccesoPublicacionPosgreSqlDAO'
+1683328514913	Rename method 'iniciarTransaccion'
+1683328532138	Rename method 'confirmaTransaccion'
+1683328543458	Rename method 'cancelarTransaccion'
+1683328859525	Rename method 'cerrarConexion'
